@@ -1,0 +1,7 @@
+torch==2.0.0
+torchvision==0.15.0
+h5py==3.8.0
+numpy==1.23.5
+matplotlib==3.7.1
+pyyaml==6.0
+scikit-image==0.21.0

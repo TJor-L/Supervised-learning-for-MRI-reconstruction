@@ -1,0 +1,9 @@
+data_file: "data/dataset.hdf5"
+target_size: [256, 256]
+batch_size: 8
+num_epochs: 20
+learning_rate: 0.001
+validation_split: 0.2
+test_split: 0.1
+save_path: "checkpoints/mri_reconstruction_model_Unet.pth"
+model_name: "ResNet"

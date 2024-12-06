@@ -33,6 +33,6 @@ python train.py --config config.yaml --mode predict --checkpoint checkpoint.pth 
 
 | Model | Average PSNR | Average SSIM |
 |-------|--------------|--------------|
-| ResNet + Decoder| 30.12        | 0.89         |
+| ResNet + Decoder| 27.32        | 0.5703         |
 | CustomCNN| 33.48        | 0.7999         |
 | UNet  | 33.61        | 0.8060         |
